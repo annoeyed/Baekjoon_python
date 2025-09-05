@@ -1,1 +1,1 @@
-# BAEKJOON_Study
+# Baekjoon_python
